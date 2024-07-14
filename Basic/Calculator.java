@@ -13,8 +13,8 @@ class Calculator{
 		System.out.println("Enter the 2nd Number: ");
 		y = scan.nextInt();
 		add = sum(x,y);
-		System.out.print("The sum of Numbers: ");
-		System.out.println(add);
+		System.out.print("The sum of Numbers: "+add);
+		// System.out.println(add);
 
 	}
 		
