@@ -3,6 +3,7 @@ import java.util.Scanner;
 class FizzBuzzGame{
     public static void main(String [] args)
     {
+        // float  f = 6.0f;
         System.out.print("Enter a nuber :: ");
         Scanner scan = new Scanner(System.in);
         int num = scan.nextInt();
